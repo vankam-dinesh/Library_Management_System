@@ -71,18 +71,7 @@ The Library Management System offers a variety of features to streamline library
 
 Students can issue books for a period of 15 days. If a book is not renewed within this time, a fine of Rs 1/day is imposed. A student can borrow a maximum of 3 books at a time, ensuring fair access for all.
 
-## 🔔 Important Note
 
-- After installing, ensure the creation of a `Temp Images` folder in your directory.
-- Add the `48-512.png` image inside this folder to ensure all graphical elements display correctly.
-
-## 🛠 Contributing
-
-We welcome contributions to improve and expand the Library Management System! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
-
-## 📫 Contact
-
-For questions or feedback, please reach out to [sarangsnair1621@gmail.com].
 
 ## 🌟 Acknowledgments
 
