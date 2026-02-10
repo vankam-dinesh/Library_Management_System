@@ -9,7 +9,7 @@ Welcome to the **Library Management System**, a simple yet powerful tool to mana
 Follow these steps to get the Library Management System up and running:
 
 1. **Clone the Repository:**
-   ```bash
+   ```bash        
    git clone https://github.com/sarangs1621/library-management-system.git
    cd library-management-system
    ```
