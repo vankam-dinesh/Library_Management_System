@@ -6,7 +6,7 @@ Welcome to the **Library Management System**, a simple yet powerful tool to mana
    
 ## 🚀 Installation    
     
-Follow these steps to get the Library Management System up and running:
+Follow these steps to get the Library Management System up and running:                               
 
 1. **Clone the Repository:**
    ```bash        
