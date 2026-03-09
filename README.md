@@ -16,7 +16,7 @@ Follow these steps to get the Library Management System up and running:
 
 2. **Run the Application:**
    - Execute `entrypoint.py` in your project directory.
-   ```bash
+   ```bash                                             
    python entrypoint.py
    ```
 
